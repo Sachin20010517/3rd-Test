@@ -1,0 +1,25 @@
+table,td{
+    border:2px solid blue;margin-left:auto; margin-right:auto;border-collapse:collapse;border-collapse:separate;
+}
+.a{
+    background-color:#ADD8E6
+}  
+.b{
+    background-color:#00FFFF;
+}
+
+.c{
+    background-color:#737CA1;
+}  	
+  
+.d{
+    background-color:#F0FFFF;
+}  
+  
+h1,h2{
+    text-align:center;background-color:#F67280;
+}  
+  
+tr-first-of-type{ 
+    font-size:50;
+}
